@@ -200,3 +200,4 @@ Opened excel C:\Users\SB47\AppData\Roaming\WeAut_vc_v1.4vcu_25Feb2026_1147\input
 11 March 2026 10:47:21 AM UTC | CPC-JBhal-1GQ7J | JBhalaaj        | Opened excel C:\Users\JBhalaaj\AppData\Roaming\WeAut_scr_v1.3scru_11Mar2026_1537\input_data\input_notify_vendor_data_extract.xlsx
 12 March 2026 06:39:51 AM UTC | CPC-SBoom-IT54O | SBoomina        | Selected file: C:/wc-aut/sample2.xlsx
 12 March 2026 06:40:10 AM UTC | CPC-SBoom-IT54O | SBoomina        | Running script pd_gen_cn_ad_input
+12 March 2026 06:40:24 AM UTC | CPC-SBoom-IT54O | SBoomina        | Running script pd_gen_cn_afo_input
