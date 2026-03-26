@@ -435,3 +435,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 26 March 2026 12:34:05 PM UTC | CPC-VKali-ARNZ1 | VKaliapp        | Selected file: C:/Users/VKaliapp/Downloads/sample2.xlsx
 26 March 2026 12:34:12 PM UTC | CPC-VKali-ARNZ1 | VKaliapp        | Running script pd_gen_cn_input
 26 March 2026 12:53:58 PM UTC | CPC-VKali-ARNZ1 | VKaliapp        | Running script pd_gen_cn_ad_input
+26 March 2026 12:55:49 PM UTC | CPC-VKali-ARNZ1 | VKaliapp        | Running script pd_gen_cn_afo_input
