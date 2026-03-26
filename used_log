@@ -425,3 +425,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 26 March 2026 09:59:53 AM UTC | win11           | admin           | SFX created successfully: WeAut_pd_v1.53pdu_installer.exe
 26 March 2026 10:50:06 AM UTC | CPC-SBoom-IT54O | SBoomina        | Selected file: C:/Users/SBoomina/OneDrive - JNJ/Desktop/E2E/CN Creation/Mar 2026/sample2 with removed SKUs.xlsx
 26 March 2026 10:50:14 AM UTC | CPC-SBoom-IT54O | SBoomina        | Running script pd_update_cn_p4a
+26 March 2026 10:51:14 AM UTC | CPC-SBoom-IT54O | SBoomina        | Running script pd_gen_cn_att_loc_input
