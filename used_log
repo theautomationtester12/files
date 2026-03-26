@@ -418,3 +418,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 26 March 2026 09:50:02 AM UTC | win11           | admin           | SFX created successfully: WeAut_pd_v1.53pdu_installer.exe
 26 March 2026 09:50:35 AM UTC | CPC-VKali-ARNZ1 | VKaliapp        | Selected file: C:/Users/VKaliapp/Downloads/sample2.xlsx
 26 March 2026 09:50:41 AM UTC | CPC-VKali-ARNZ1 | VKaliapp        | Running script pd_gen_cn_ad_input
+26 March 2026 09:51:50 AM UTC | CPC-VKali-ARNZ1 | VKaliapp        | Running script pd_gen_cn_afo_input
