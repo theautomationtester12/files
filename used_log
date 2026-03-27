@@ -484,3 +484,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 27 March 2026 08:17:38 AM UTC | LP-5CG1347F0T   | vinaybabu.gutta | Launched application with wcpd option and base dir C:\wc\web_automation_wc_sel_msp_gui
 27 March 2026 08:17:52 AM UTC | LP-5CG1347F0T   | vinaybabu.gutta | Selected file: C:/Users/vinaybabu.gutta/OneDrive - HCL TECHNOLOGIES LIMITED/Desktop/sample2 1.xlsx
 27 March 2026 08:18:12 AM UTC | LP-5CG1347F0T   | vinaybabu.gutta | Running script pd_gen_cn_att_input
+27 March 2026 08:24:02 AM UTC | LP-5CG1347F0T   | vinaybabu.gutta | Running script pd_gen_cn_afo_input
