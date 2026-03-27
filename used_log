@@ -505,3 +505,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 27 March 2026 11:10:17 AM UTC | CPC-VKali-ARNZ1 | VKaliapp        | Running script pd_gen_cn_afo_input
 27 March 2026 11:15:53 AM UTC | CPC-VKali-ARNZ1 | VKaliapp        | Running script pd_gen_cn_att_input
 27 March 2026 11:25:14 AM UTC | CPC-VKali-ARNZ1 | VKaliapp        | SFX created successfully: WeAut_pd_v1.54pdu_installer.exe
+27 March 2026 12:01:03 PM UTC | LP-5CG1347F0T   | vinaybabu.gutta | Launched application with wcpd option and base dir C:\wc\web_automation_wc_sel_msp_gui
