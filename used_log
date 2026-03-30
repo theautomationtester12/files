@@ -585,3 +585,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 30 March 2026 07:37:55 AM UTC | CPC-VKali-ARNZ1 | VKaliapp        | Launched application with wcpd option and base dir C:\Users\VKaliapp\AppData\Roaming\WeAut_pd_v1.54pdu_27Mar2026_1653
 30 March 2026 07:38:12 AM UTC | CPC-VKali-ARNZ1 | VKaliapp        | Selected file: C:/Users/VKaliapp/Downloads/SCP, MM02, JDE International, China - Sheet generation test.xlsx
 30 March 2026 07:38:17 AM UTC | CPC-VKali-ARNZ1 | VKaliapp        | Running script pd_gen_cn_att_input
+30 March 2026 07:42:27 AM UTC | CPC-VKali-ARNZ1 | VKaliapp        | Running script pd_gen_cn_att_input
