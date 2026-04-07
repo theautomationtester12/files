@@ -952,3 +952,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 07 April 2026 07:25:00 AM UTC | CPC-SBoom-IT54O | SBoomina        | Running script po_stru_extract
 07 April 2026 07:27:28 AM UTC | CPC-SBoom-IT54O | SBoomina        | Opened output folder C:\wc-aut\web_automation_wc_sel_msp_gui-latest build_31 Mar\build_pd_automation_v1.58pdu\output_data\CPC_SBoom_IT54O\07Apr2026\07h25m00s
 07 April 2026 07:29:01 AM UTC | CPC-SBoom-IT54O | SBoomina        | Opened excel C:\wc-aut\web_automation_wc_sel_msp_gui-latest build_31 Mar\build_pd_automation_v1.58pdu\input_data\input_bom_data_extract.xlsx
+07 April 2026 07:29:17 AM UTC | CPC-SBoom-IT54O | SBoomina        | Running script po_bom_extract
