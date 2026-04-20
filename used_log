@@ -1145,3 +1145,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 20 April 2026 11:44:26 AM UTC | CPC-SBoom-IT54O | SBoomina        | Launched application with wcpd option and base dir C:\wc-aut\web_automation_wc_sel_msp_gui-latest build_31 Mar\build_pd_automation_v1.58pdu
 20 April 2026 11:44:50 AM UTC | CPC-SBoom-IT54O | SBoomina        | Selected file: C:/Users/SBoomina/OneDrive - JNJ/Desktop/E2E/CN Creation/Mar 2026/Update/Template for CN.xlsx
 20 April 2026 11:45:39 AM UTC | CPC-SBoom-IT54O | SBoomina        | Running script pd_gen_cn_input
+20 April 2026 11:50:44 AM UTC | CPC-SBoom-IT54O | SBoomina        | Running script pd_gen_cn_input
