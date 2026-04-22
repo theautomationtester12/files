@@ -1212,3 +1212,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 22 April 2026 07:32:05 AM UTC | CPC-NMahe-5U3X9 | NMahendi        | Launched application with wcscr option and base dir C:\Users\NMahendi\AppData\Roaming\WeAut_scr_v1.5scru_27Mar2026_1158
 22 April 2026 07:32:29 AM UTC | CPC-NMahe-5U3X9 | NMahendi        | Saved login credentials for nmahendi
 22 April 2026 07:32:54 AM UTC | CPC-NMahe-5U3X9 | NMahendi        | Opened excel C:\Users\NMahendi\AppData\Roaming\WeAut_scr_v1.5scru_27Mar2026_1158\input_data\input_notify_vendor_data_extract.xlsx
+22 April 2026 07:35:54 AM UTC | CPC-NMahe-5U3X9 | NMahendi        | Running script po_nvd_extract
