@@ -1238,3 +1238,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 29 April 2026 12:28:44 PM UTC | CPC-BArul-FEPGP | BArulthe        | Running script po_nvd_extract
 29 April 2026 12:29:56 PM UTC | CPC-BArul-FEPGP | BArulthe        | Opened output folder C:\Users\BArulthe\AppData\Roaming\WeAut_scr_v1.5scru_27Mar2026_1158\output_data\CPC_BArul_FEPGP\29Apr2026\12h28m44s
 29 April 2026 12:30:18 PM UTC | CPC-BArul-FEPGP | BArulthe        | Opened excel C:\Users\BArulthe\AppData\Roaming\WeAut_scr_v1.5scru_27Mar2026_1158\input_data\input_notify_vendor_data_extract.xlsx
+29 April 2026 12:30:54 PM UTC | CPC-BArul-FEPGP | BArulthe        | Running script po_nvd_extract
