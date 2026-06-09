@@ -1344,3 +1344,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 09 June 2026 12:19:10 PM UTC | CPC-SBoom-IT54O | SBoomina        | Running script pd_gen_cn_input
 09 June 2026 12:20:57 PM UTC | CPC-SBoom-IT54O | SBoomina        | Opened output folder C:\wc-aut\web_automation_wc_sel_msp_gui-latest build_31 Mar\build_pd_automation_v1.58pdu\output_data\CPC_SBoom_IT54O\09Jun2026\12h19m10s
 09 June 2026 12:25:46 PM UTC | CPC-KPala-IB8YB | KPalan18        | Running script pd_update_cn_p2
+09 June 2026 12:29:24 PM UTC | CPC-SBoom-IT54O | SBoomina        | Running script pd_create_cn
