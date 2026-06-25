@@ -1452,3 +1452,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 25 June 2026 09:00:52 AM UTC | CPC-JBhal-1GQ7J | JBhalaaj        | Opened excel C:\Users\JBhalaaj\AppData\Roaming\WeAut_scr_v1.5scru_27Mar2026_1158\input_data\input_notify_vendor_data_extract.xlsx
 25 June 2026 09:01:28 AM UTC | CPC-JBhal-1GQ7J | JBhalaaj        | Running script po_nvd_extract
 25 June 2026 09:44:39 AM UTC | CPC-JBhal-1GQ7J | JBhalaaj        | Opened output folder C:\Users\JBhalaaj\AppData\Roaming\WeAut_scr_v1.5scru_27Mar2026_1158\output_data\CPC_JBhal_1GQ7J\25Jun2026\09h01m28s
+25 June 2026 01:04:34 PM UTC | CPC-SBoom-IT54O | SBoomina        | Launched application with wcpd option and base dir C:\wc-aut\web_automation_wc_sel_msp_gui-latest build_31 Mar\build_pd_automation_v1.58pdu
