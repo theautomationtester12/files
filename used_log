@@ -1495,3 +1495,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 29 June 2026 07:25:40 AM UTC | CPC-KPala-IB8YB | KPalan18        | Launched application with wcpd option and base dir C:\Users\KPalan18\AppData\Roaming\WeAut_pd_v1.58pdu_31Mar2026_1720
 29 June 2026 07:26:14 AM UTC | CPC-KPala-IB8YB | KPalan18        | Selected file: C:/Users/KPalan18/OneDrive - JNJ/Documents/Kamaraj/CN Creation/CN Template.xlsx
 29 June 2026 07:26:25 AM UTC | CPC-KPala-IB8YB | KPalan18        | Running script pd_gen_cn_input
+29 June 2026 07:28:25 AM UTC | CPC-KPala-IB8YB | KPalan18        | Running script pd_create_cn
