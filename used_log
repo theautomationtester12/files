@@ -1676,3 +1676,4 @@ Restarted App. at 17 March 2026 11:53:14 AM UTC by sb47 after login SB47 on host
 07 August 2026 07:39:52 AM UTC | CPC-MK30-M2CPVO | MK30            | Running script po_nvd_extract
 07 August 2026 07:49:51 AM UTC | CPC-MK30-M2CPVO | MK30            | Opened output folder C:\Users\MK30\AppData\Roaming\WeAut_scr_v1.5scru_05Aug2026_1903\output_data\CPC_MK30_M2CPVO\07Aug2026\07h39m52s
 11 August 2026 06:00:51 AM UTC | CPC-KPala-IB8YB | KPalan18        | Launched application with wcpd option and base dir C:\Users\KPalan18\AppData\Roaming\WeAut_pd_v1.58pdu_31Mar2026_1720
+11 August 2026 08:14:50 AM UTC | CPC-SBoom-IT54O | SBoomina        | Launched application with wcpd option and base dir C:\wc-aut\web_automation_wc_sel_msp_gui-latest build_31 Mar\build_pd_automation_v1.58pdu
